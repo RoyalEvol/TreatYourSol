@@ -6,3 +6,8 @@ h1{
 body{
   background-color:Black;
 }
+button{
+  color: Orange
+  font-size: 100px;
+  text-align: center;
+}
